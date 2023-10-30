@@ -1,6 +1,6 @@
 import { USER_KEY } from "../utils/Constants"
 
-export const BASE_URL = "http://localhost:5000/api/v1"
+export const BASE_URL = "https://project-api-hecr.onrender.com/api/v1"
 
 // ENDPOINTS
 export const REGISTER_ENDPOINT = BASE_URL + "/auth/admin/signup"
